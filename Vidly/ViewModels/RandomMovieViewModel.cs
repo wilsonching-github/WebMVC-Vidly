@@ -7,5 +7,6 @@ namespace Vidly.ViewModels
 {
     public class RandomMovieViewModel
     {
+        // Test GitHub Changes
     }
 }
